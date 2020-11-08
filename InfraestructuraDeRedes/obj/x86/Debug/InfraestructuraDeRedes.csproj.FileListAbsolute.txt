@@ -1,0 +1,6 @@
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/bin/Debug/InfraestructuraDeRedes.exe
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/bin/Debug/InfraestructuraDeRedes.pdb
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/obj/x86/Debug/InfraestructuraDeRedes.csprojAssemblyReference.cache
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/obj/x86/Debug/InfraestructuraDeRedes.exe
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/obj/x86/Debug/InfraestructuraDeRedes.pdb
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/obj/x86/Debug/InfraestructuraDeRedes.csproj.CoreCompileInputs.cache

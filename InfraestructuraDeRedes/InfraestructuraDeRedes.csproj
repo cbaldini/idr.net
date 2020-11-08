@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{1A80A396-86F4-42D1-9644-AB66D781AC77}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>InfraestructuraDeRedes</RootNamespace>
+    <AssemblyName>InfraestructuraDeRedes</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CustomCommands>
+      <CustomCommands>
+        <Command>
+          <type>BeforeExecute</type>
+        </Command>
+      </CustomCommands>
+    </CustomCommands>
+    <Externalconsole>true</Externalconsole>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Externalconsole>true</Externalconsole>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="Mono.Posix" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Cable.cs" />
+    <Compile Include="CableDeFibraOptica.cs" />
+    <Compile Include="CableEthernet.cs" />
+    <Compile Include="Conector.cs" />
+    <Compile Include="Dispositivo.cs" />
+    <Compile Include="DispositivoWireless.cs" />
+    <Compile Include="FichaRJ45.cs" />
+    <Compile Include="IPrecio.cs" />
+    <Compile Include="ITipoRecurso.cs" />
+    <Compile Include="ModuloSFP.cs" />
+    <Compile Include="PrecioConIVA.cs" />
+    <Compile Include="PrecioEnPesos.cs" />
+    <Compile Include="Recurso.cs" />
+    <Compile Include="Router.cs" />
+    <Compile Include="Switch.cs" />
+    <Compile Include="Algoritmo04.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

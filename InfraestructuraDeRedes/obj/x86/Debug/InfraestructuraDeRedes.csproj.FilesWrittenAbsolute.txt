@@ -1,0 +1,11 @@
+/home/cristian/InfraestructuraDeRedes/InfraestructuraDeRedes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristian/InfraestructuraDeRedes/InfraestructuraDeRedes/bin/Debug/InfraestructuraDeRedes.exe.mdb
+/home/cristian/InfraestructuraDeRedes/InfraestructuraDeRedes/bin/Debug/InfraestructuraDeRedes.exe
+/home/cristian/InfraestructuraDeRedes/InfraestructuraDeRedes/obj/x86/Debug/InfraestructuraDeRedes.exe
+/home/cristian/InfraestructuraDeRedes/InfraestructuraDeRedes/obj/x86/Debug/InfraestructuraDeRedes.exe.mdb
+/home/cristian/InfraestructuraDeRedes/InfraestructuraDeRedes/obj/x86/Debug/InfraestructuraDeRedes.gtk-gui.gui.stetic
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/bin/Debug/InfraestructuraDeRedes.exe.mdb
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/bin/Debug/InfraestructuraDeRedes.exe
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/obj/x86/Debug/InfraestructuraDeRedes.exe
+/home/cristian/Programming/InfraestructuraDeRedesC#/InfraestructuraDeRedes/obj/x86/Debug/InfraestructuraDeRedes.exe.mdb
